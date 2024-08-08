@@ -10,7 +10,7 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "Tejas kakade",
+  "author": "Sushant Gaikwad",
   "license": "ISC",
   "dependencies": {
     "cloudinary": "^2.2.0",
